@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "install": "^0.13.0"
+  }
+}
